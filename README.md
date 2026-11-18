@@ -41,7 +41,7 @@ La API complementa el proyecto como fuente de datos. La aplicación mantiene la 
 | Integrante | Legajo | Distribución propuesta, a confirmar |
 |---|---|---|
 | Franco Martinez | 55215 | Carga y guardado CSV, estructura de datos y sincronización con la API. |
-| Leandro Ortuvia | 676767 | Búsquedas, filtros y ordenamientos. |
+| Leandro Ortuvia | 55231 | Búsquedas, filtros y ordenamientos. |
 | Arón Petersen | 55246 | Estadísticas, revisión de validaciones y documentación. |
 | Los tres integrantes | — | Revisión del programa completo, conclusiones y presentación del video. |
 
